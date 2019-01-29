@@ -153,7 +153,7 @@ public class GhostActivity extends AppCompatActivity {
                 }
             }
         }
-
+        // test commit
         String newWord;
         newWord = sd.getAnyWordStartingWith(text);
         if(newWord == null){
